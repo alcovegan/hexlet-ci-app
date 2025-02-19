@@ -11,3 +11,5 @@ jobs:
       # Ставим зависимости
       - run: make setup
       - run: make test
+      - name: Print Hello from Hexlet
+        uses: hexlet-components/hello-from-hexlet-action@release
