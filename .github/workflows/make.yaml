@@ -11,4 +11,3 @@ jobs:
       # Ставим зависимости
       - run: make setup
       - run: make test
-      - run: make start
