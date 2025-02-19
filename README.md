@@ -1,5 +1,7 @@
 # Example app for CI Hexlet course
 
+[![make setup](https://github.com/alcovegan/hexlet-ci-app/actions/workflows/make.yaml/badge.svg)](https://github.com/alcovegan/hexlet-ci-app/actions/workflows/make.yaml)
+
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
